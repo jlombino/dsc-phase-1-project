@@ -77,9 +77,11 @@ Please review my [Jupyter Notebook](https://github.com/jlombino/dsc-phase-1-proj
 ## Repository Information
 ```
 ├── README.md                        <- The top-level README you are currently reading
-├── Jason's Work.ipynb               <- Jupyter notebook with my full analysis
-├── slides.pdf                       <- PDF version of project presentation
+├── readme.md.pdf                    <- PDF version of this README
 ├── Description.md                   <- Project description and requirements provided by upstream
+├── Jason's Work.ipynb               <- Jupyter notebook with my full analysis
+├── Jason's Work.pdf                 <- PDF version of project Jupyter notebook
+├── slides.pdf                       <- PDF version of project presentation
 ├── zippedData                       <- Project data provided by upstream
 └── Images                           <- Graphs generated from code
 ```
